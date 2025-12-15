@@ -23,18 +23,18 @@ Power BI, DAX, Excel
 
 ---
 
-### 2️⃣ Employee Attrition & Healthcare Predictive Analytics
+### 2️⃣ Employee Attrition Analysis
 **Objective:**  
-Analyze employee and healthcare datasets to identify patterns, risk factors, and trends influencing attrition and health outcomes.
+Analyze employee data to identify patterns and key factors influencing employee attrition.
 
 **Key Features:**
-- Data cleaning and preprocessing using Python  
+- Data cleaning and preprocessing  
 - Exploratory Data Analysis (EDA)  
-- Insight generation for decision support  
-- Analytical interpretation of workforce and healthcare data  
+- Attrition trend and factor analysis  
+- Insight generation to support HR decision-making  
 
 **Tools:**  
-Python (Pandas, NumPy), Jupyter Notebook, Excel
+Python (Pandas, NumPy), Power BI, Excel
 
 ---
 
