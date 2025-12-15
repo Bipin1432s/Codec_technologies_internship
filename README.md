@@ -72,4 +72,4 @@ Python (Pandas, NumPy), Power BI, Excel
 ---
 
 ## 📬 Contact
-Feel free to connect with me on **LinkedIn** for feedback, collaboration, or opportunities.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/b-bipin-196457283/) for feedback, collaboration, or opportunities.
